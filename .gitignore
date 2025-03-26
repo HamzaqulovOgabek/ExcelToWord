@@ -1,0 +1,91 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.WebApplication1.iml
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Rider-specific files
+.idea/
+*.sln.iml
+*.userprefs
+
+# Build output
+bin/
+obj/
+out/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs & Database
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+database.sqlite
+database.sqlite-journal
+
+# Rider & Resharper
+*.DotSettings.user
+*.sln.DotSettings
+
+# VSCode-specific files
+.vscode/
+
+# Dependencies
+node_modules/
+bower_components/
+packages/
+
+# Publish output
+publish/
+wwwroot/
+
+# Environment & Configuration
+.env
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# Temporary Files
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# JetBrains Rider
+**/.idea/
+**/.idea_modules/
+**/.ijwb/
+**/.vscode/
+**/.gradle/
+**/.DS_Store
+
+# Docker
+docker-compose.override.yml
+docker-compose.override.*.yml
+
+# Coverage and Reports
+TestResults/
+coverage/
+coverage.cobertura.xml
+coverage.opencover.xml
+
+.idea
+bin
+obj
+.vs
+wwwroot
+
